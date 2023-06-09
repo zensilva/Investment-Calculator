@@ -1,12 +1,13 @@
-MIT License
+## License
 
-Copyright (c) [year] [fullname]
+Copyright (c) 2023 Zen K. Silva
 
 All rights reserved. This project is not open for public use, reproduction, distribution, or modification.
 
 ## Contributing
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Contributions are not being accepted for this project at the moment.
 
 ## Acknowledgements
+
+The Bank Investment Calculator project was developed for my Project 2 of my Computer Science program.
